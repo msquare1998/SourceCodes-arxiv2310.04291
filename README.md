@@ -3,5 +3,6 @@ Please make sure to config [tensorcircuit](https://tensorcircuit.readthedocs.io/
 
 Codes/data for all algorithms/figures in the paper are availible.
 
-For any question, please contact me via 
-- dingyiming@westlake.edu.cn
+Each algorithms code has two options: ```reEvolve``` and ```plot```. Defalt setting only plots the result based on existing data.
+
+For any question, please contact me via dingyiming@westlake.edu.cn
