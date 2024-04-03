@@ -3,6 +3,6 @@
 
 - Codes/data for all algorithms/figures in the paper are availible.
 
-- Each algorithms code has two options: ```reEvolve``` and ```plot```. Defalt setting only plots the result based on existing data.
+- Each python script for a algorithm has two options: ```reEvolve``` and ```plot```. Defalt setting only plots the result based on existing data.
 
 - For any other question, please contact me via dingyiming@westlake.edu.cn
