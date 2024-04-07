@@ -3,6 +3,6 @@
 
 - Codes/data for all algorithms/figures in the paper are available.
 
-- Each python script for an algorithm has two options: ```reEvolve``` and ```plot```. Default setting only plots the result based on existing data and a given seed.
+- Each python script for an algorithm has two options: ```reEvolve``` and ```plot```. Default setting only plots the result based on existing data.
 
 - For any other question, please contact me via dingyiming@westlake.edu.cn
